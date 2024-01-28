@@ -7,11 +7,11 @@ public class ConcatTest {
     @Test
     public void test1() {
         Concat concat = new Concat();
-        Assert.assertEquals("Ridiculous", Concat.concatinate("Ridi", "culouss"));
+        Assert.assertEquals("Ridiculous", Concat.concatinate("Ridi", "culous"));
     }
 
     @Test
     public void test2() {
-        Assert.assertEquals("Sectumsempra", Concat.concatinate("Sectum", "sempram"));
+        Assert.assertEquals("Sectumsempra", Concat.concatinate("Sectum", "sempra"));
     }
 }
