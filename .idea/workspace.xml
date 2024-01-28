@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="7th">
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="9th">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ConcatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConcatTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706468212179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8th">
+      <option name="closed" value="true" />
+      <created>1706468834409</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706468834409</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9th">
+      <option name="closed" value="true" />
+      <created>1706469547240</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706469547240</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +157,8 @@
     <MESSAGE value="5th" />
     <MESSAGE value="6th" />
     <MESSAGE value="7th" />
-    <option name="LAST_COMMIT_MESSAGE" value="7th" />
+    <MESSAGE value="8th" />
+    <MESSAGE value="9th" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th" />
   </component>
 </project>

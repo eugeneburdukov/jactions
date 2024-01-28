@@ -12,6 +12,6 @@ public class ConcatTest {
 
     @Test
     public void test2() {
-        Assert.assertEquals("Sectumsempra", Concat.concatinate("Sectum", "seempra"));
+        Assert.assertEquals("Sectumsempra", Concat.concatinate("Sectum", "sempra"));
     }
 }
