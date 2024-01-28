@@ -21,4 +21,10 @@ public class ConcatTest {
     public void test3() {
         Assert.assertEquals("yesyes", Concat.concatinate("yes", "yes"));
     }
+
+    @Test
+    @Feature("FOurth Test")
+    public void test4() {
+        Assert.assertEquals("sukanahuy", Concat.concatinate("suka", "nahui"));
+    }
 }
