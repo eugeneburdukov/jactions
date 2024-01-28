@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="11th">
-      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="12th commit">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConcatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConcatTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706470073639</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="12th commit">
+      <option name="closed" value="true" />
+      <created>1706470841153</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706470841153</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +187,7 @@
     <MESSAGE value="9th" />
     <MESSAGE value="10th" />
     <MESSAGE value="11th" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th" />
+    <MESSAGE value="12th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th commit" />
   </component>
 </project>
