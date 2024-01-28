@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="12th commit">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ConcatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConcatTest.java" afterDir="false" />
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="16 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706470841153</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="13th commit">
+      <option name="closed" value="true" />
+      <created>1706471045428</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471045428</updated>
+    </task>
+    <task id="LOCAL-00013" summary="15 commit">
+      <option name="closed" value="true" />
+      <created>1706471253057</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471253057</updated>
+    </task>
+    <task id="LOCAL-00014" summary="16 commit">
+      <option name="closed" value="true" />
+      <created>1706471445112</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471445112</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +211,9 @@
     <MESSAGE value="10th" />
     <MESSAGE value="11th" />
     <MESSAGE value="12th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th commit" />
+    <MESSAGE value="13th commit" />
+    <MESSAGE value="15 commit" />
+    <MESSAGE value="16 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 commit" />
   </component>
 </project>
