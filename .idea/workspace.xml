@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="9th">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ConcatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConcatTest.java" afterDir="false" />
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="11th">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ConcatTest.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -147,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706469547240</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="10th">
+      <option name="closed" value="true" />
+      <created>1706469879462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706469879462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11th">
+      <option name="closed" value="true" />
+      <created>1706470073639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706470073639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +176,8 @@
     <MESSAGE value="7th" />
     <MESSAGE value="8th" />
     <MESSAGE value="9th" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th" />
+    <MESSAGE value="10th" />
+    <MESSAGE value="11th" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th" />
   </component>
 </project>
