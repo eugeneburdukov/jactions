@@ -9,4 +9,9 @@ public class ConcatTest {
         Concat concat = new Concat();
         Assert.assertEquals("Ridiculous", Concat.concatinate("Ridi", "culouss"));
     }
+
+    @Test
+    public void test2() {
+        Assert.assertEquals("Sectumsempra", Concat.concatinate("Sectum", "sempra"));
+    }
 }
