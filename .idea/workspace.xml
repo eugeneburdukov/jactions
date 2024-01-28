@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="2nd">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Concat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ConcatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConcatTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.jactions [clean].executor": "Run",
+    "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:install].executor": "Run",
     "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:report].executor": "Run",
+    "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:serve].executor": "Run",
     "Maven.jactions [package].executor": "Run",
+    "Maven.jactions [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -80,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706461904950</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd">
+      <option name="closed" value="true" />
+      <created>1706466672675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706466672675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd" />
   </component>
 </project>
