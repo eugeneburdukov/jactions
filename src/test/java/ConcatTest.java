@@ -1,7 +1,5 @@
 import io.qameta.allure.Feature;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class ConcatTest {
@@ -21,6 +19,6 @@ public class ConcatTest {
     @Test
     @Feature("Third Test")
     public void test3() {
-        Assert.assertEquals("nono", Concat.concatinate("yes", "yes"));
+        Assert.assertEquals("yesyes", Concat.concatinate("yes", "yes"));
     }
 }
