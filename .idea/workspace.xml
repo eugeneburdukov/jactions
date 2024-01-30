@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="16 commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fc739a6-d079-402a-b6d2-a85e68c71bd8" name="Changes" comment="17 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,34 +20,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ban9LvDVzbdkuuRX6soXIv2AwW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.jactions [clean].executor": "Run",
-    "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:install].executor": "Run",
-    "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:report].executor": "Run",
-    "Maven.jactions [io.qameta.allure:allure-maven:2.12.0:serve].executor": "Run",
-    "Maven.jactions [package].executor": "Run",
-    "Maven.jactions [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.ConcatTest.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.jactions [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.jactions [io.qameta.allure:allure-maven:2.12.0:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.jactions [io.qameta.allure:allure-maven:2.12.0:report].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.jactions [io.qameta.allure:allure-maven:2.12.0:serve].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.jactions [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.jactions [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.ConcatTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ConcatTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="jactions" />
@@ -196,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706471445112</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="17 commit">
+      <option name="closed" value="true" />
+      <created>1706471997080</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471997080</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +220,7 @@
     <MESSAGE value="13th commit" />
     <MESSAGE value="15 commit" />
     <MESSAGE value="16 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 commit" />
+    <MESSAGE value="17 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 commit" />
   </component>
 </project>

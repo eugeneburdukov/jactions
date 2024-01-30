@@ -25,6 +25,6 @@ public class ConcatTest {
     @Test
     @Feature("FOurth Test")
     public void test4() {
-        Assert.assertEquals("sukanahui", Concat.concatinate("suka", "nahui"));
+        Assert.assertEquals("sukanahuy", Concat.concatinate("suka", "nahui"));
     }
 }
